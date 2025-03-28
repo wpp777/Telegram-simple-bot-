@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # Load bot token from environment variable
-TOKEN = "8141126737:AAGN2rdg10hYiyMG2IqwG4o90D_4LEFumZs"
+TOKEN = ""
 ADMIN_ID = 7760174741  # Replace with your actual Telegram user ID
 PAYPAL_ME_LINK = "https://www.paypal.me/LieslKempf"
 PRODUCTS_FILE = "products.json"
