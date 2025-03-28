@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name_en": "Product 1",
+      "description_en": "This is a sample product.",
+      "price": 10.99
+    },
+    {
+      "name_en": "Product 2",
+      "description_en": "Another great product.",
+      "price": 20.00
+    }
+  ]
+}
